@@ -7,4 +7,7 @@ A simple memory game written with pygame.
 How To Play:
 ==========
 
-* Move to "src" directory and run '''python main.py'''
+Move to "src" directory and run
+```bash
+python main.py
+```
